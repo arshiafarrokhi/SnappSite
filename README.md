@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://arshiafarrokhi.github.io/NFTwebSite/">
+  <a href="https://snapp-site.vercel.app/">
     <img src="assets\Untitled2.svg" alt="Logo" width="250" height="80">
   </a>
 
@@ -10,11 +10,11 @@
     You can get more information from my personal website
     <br/>
     <br/>
-    <a href="https://arshiafarrokhi.github.io/NFTwebSite/">View Demo</a>
+    <a href="https://snapp-site.vercel.app/">View Demo</a>
     .
-    <a href="https://arshiafarrokhi.github.io/NFTwebSite/issues">Report Bug</a>
+    <a href="https://snapp-site.vercel.app/issues">Report Bug</a>
     .
-    <a href="https://arshiafarrokhi.github.io/NFTwebSite/issues">Request Feature</a>
+    <a href="https://snapp-site.vercel.app/issues">Request Feature</a>
   </p>
 </p>
 
