@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://arshiafarrokhi.github.io/NFTwebSite/">
-    <img src="assets\Untitled2.png" alt="Logo" width="250" height="80">
+    <img src="assets\Untitled2.svg" alt="Logo" width="250" height="80">
   </a>
 
   <h3 align="center">SnappSite</h3>
