@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://snapp-site.vercel.app/">
-    <img src="assets\Untitled2.png" alt="Logo" width="250" height="80">
+    <img src="assets\Untitled2.png" alt="Logo" width="250" height="150">
   </a>
 
   <h3 align="center">SnappSite</h3>
